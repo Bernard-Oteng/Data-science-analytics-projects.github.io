@@ -4,6 +4,8 @@ Hi, I'm **Bernard Oteng**. Welcome to my data science and analytics portfolio, w
 
 The projects featured here use **Power BI, Excel, Tableau, and SQL** to explore sales performance, supply chain operations, healthcare activity, and retail data. My focus is on making analysis easy to follow: defining the question, explaining the approach, and presenting results in a way that supports informed decisions.
 
+I also work with **R and Python for data science**, including **NumPy, pandas, Matplotlib, and statsmodels** for numerical computing, data analysis, visualization, and statistical modeling.
+
 ## Explore the Portfolio
 
 This repository contains the source files for my portfolio website. Browse the [portfolio homepage](index.html) for project descriptions and links to the supporting work.
@@ -19,6 +21,12 @@ This repository contains the source files for my portfolio website. Browse the [
 
 ## Skills and Tools
 
+- **R:** Data science and statistical analysis.
+- **Python:** Data science and analysis workflows.
+- **NumPy:** Numerical computing and array operations.
+- **pandas:** Data preparation, manipulation, and analysis.
+- **Matplotlib:** Charts and data visualization.
+- **statsmodels:** Statistical modeling and analysis.
 - **Power BI:** Data modeling, DAX, dashboards, and business reporting.
 - **Excel:** Data analysis, summaries, and interactive dashboards.
 - **Tableau:** Visual exploration and presentation of findings.
